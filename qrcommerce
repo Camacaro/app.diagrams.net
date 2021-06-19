@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T16:14:30.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="v3-hVdHcnILgjLWtOFrz" version="14.7.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-19T00:03:35.586Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="NZ82TrOLDayXz_cGJkF0" version="14.7.10" type="github" pages="2">
   <diagram id="dT2wclgn7qegvD7Uco-d" name="Page-1">
     <mxGraphModel dx="2629" dy="771" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -387,7 +387,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kSiH1oCoDcXPnVVXj6Ju" name="Inventory module">
-    <mxGraphModel dx="4428" dy="-369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="4233" dy="-369" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="KTlSZXYAVt3KRxAGmXAY-0" />
         <mxCell id="KTlSZXYAVt3KRxAGmXAY-1" parent="KTlSZXYAVt3KRxAGmXAY-0" />
@@ -523,7 +523,7 @@
         <mxCell id="61x6h0pISeRiZqa9Qkeo-42" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-40" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="61x6h0pISeRiZqa9Qkeo-43" value="unit" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="KTlSZXYAVt3KRxAGmXAY-1" vertex="1">
+        <mxCell id="61x6h0pISeRiZqa9Qkeo-43" value="unitId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="KTlSZXYAVt3KRxAGmXAY-1" vertex="1">
           <mxGeometry x="-1439" y="1836" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="61x6h0pISeRiZqa9Qkeo-46" value="inventoryAuditQuantity" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;strokeColor=#000000;" parent="KTlSZXYAVt3KRxAGmXAY-1" vertex="1">
@@ -624,7 +624,7 @@
         <mxCell id="61x6h0pISeRiZqa9Qkeo-102" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-101" vertex="1">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="61x6h0pISeRiZqa9Qkeo-103" value="ingredientId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-101" vertex="1">
+        <mxCell id="61x6h0pISeRiZqa9Qkeo-103" value="ingredient_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-101" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="61x6h0pISeRiZqa9Qkeo-92" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="61x6h0pISeRiZqa9Qkeo-88" vertex="1">
@@ -633,7 +633,7 @@
         <mxCell id="61x6h0pISeRiZqa9Qkeo-93" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-92" vertex="1">
           <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="61x6h0pISeRiZqa9Qkeo-94" value="productId" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-92" vertex="1">
+        <mxCell id="61x6h0pISeRiZqa9Qkeo-94" value="product_id" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" parent="61x6h0pISeRiZqa9Qkeo-92" vertex="1">
           <mxGeometry x="60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="61x6h0pISeRiZqa9Qkeo-95" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="61x6h0pISeRiZqa9Qkeo-88" vertex="1">
@@ -972,6 +972,9 @@
         </mxCell>
         <mxCell id="Cro9NN-WFUpEjGTBRJng-148" value="N" style="resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Cro9NN-WFUpEjGTBRJng-147">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cro9NN-WFUpEjGTBRJng-151" value="&lt;h1&gt;TODO&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li style=&quot;text-align: justify&quot;&gt;Si ya existe un usuario con tablas no puedo volver generar las tablas tengo que hacer una especie de migracion respecto a las nuevas tablas y/o campos. Considerar cuando haya un nuevo cliente y se tenga que generar las tablas tambien hay que generar las migraciones creadas. Al crear una nueva migración buscar la manera de poder ejecutarla en todos los clientes que no la tenga de manera automática.&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#EA6B66;" vertex="1" parent="KTlSZXYAVt3KRxAGmXAY-1">
+          <mxGeometry x="-968" y="1768" width="436" height="336" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
